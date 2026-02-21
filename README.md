@@ -189,7 +189,7 @@ The dataset is publicly available and commonly used in data science projects. If
 ## Check my code 👁️
 Below is the link to check my app
 
-  [Project demo](https://waterqualitytest-2025.streamlit.app/) 🚀
+  [Project demo](https://waterqualitytestprediction-2025.streamlit.app/) 🚀
 
 ---
 
